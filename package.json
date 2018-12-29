@@ -1,16 +1,16 @@
 {
-  "_from": "maximus-framework",
-  "_id": "maximus-framework@0.0.26",
+  "_from": "discord-framework",
+  "_id": "discord-framework@0.0.1",
   "_inBundle": false,
-  "_integrity": "sha512-L1D4HQd3atJZx8SBuXwJWHlC479aMTWiTzxCJmaivSx00ZOWuyeAv0hUiq9IbjFnFjuZO9aj69Y/9MgVifUenQ==",
-  "_location": "/maximus-framework",
+  "_integrity": "",
+  "_location": "/discord-framework",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "maximus-framework",
-    "name": "maximus-framework",
-    "escapedName": "maximus-framework",
+    "raw": "discord-framework",
+    "name": "discord-framework",
+    "escapedName": "discords-framework",
     "rawSpec": "",
     "saveSpec": null,
     "fetchSpec": "latest"
@@ -19,10 +19,10 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/maximus-framework/-/maximus-framework-0.0.26.tgz",
-  "_shasum": "4310b08f4c77394e1c6bf76afa927bfe6a42a011",
-  "_spec": "maximus-framework",
-  "_where": "C:\\Users\\Omen\\Desktop\\New Folder",
+  "_resolved": "https://registry.npmjs.org/discord-framework/-/discord-framework-0.0.1.tgz",
+  "_shasum": "",
+  "_spec": "discord-framework",
+  "_where": "",
   "bundleDependencies": false,
   "contributors": [
     {
@@ -37,8 +37,8 @@
   "keywords": [
     "discord.js",
     "framework",
-    "Maximus"
+    "discord"
   ],
-  "name": "maximus-framework",
+  "name": "discord-framework",
   "version": "0.0.26"
 }
